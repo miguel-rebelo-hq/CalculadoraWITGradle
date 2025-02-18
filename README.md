@@ -11,7 +11,7 @@ This project was developed in IntelliJ.
 This project was developed using Java 17+ as the main language and Spring Boot 3.1.0 to facilitate the creation of the REST API and the structuring of the modules. 
 Communication between services is done using Apache Kafka, dependency management is done using Gradle, and the application can be run using Docker Desktop. 
 For structured logging, we use SLF4J + Logback, and automated tests are implemented with JUnit 5.
-In addition, we use MDC (Mapped Diagnostic Context) to track each request throughout its execution.
+In addition, I use MDC (Mapped Diagnostic Context) to track each request throughout its execution.
 
 # How to Run the App
 
